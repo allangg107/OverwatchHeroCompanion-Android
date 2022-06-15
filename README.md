@@ -11,7 +11,9 @@ The picture below is using an Android emulator in Android Studio.
 
 Most of the app logic can be found if you navigate to:
 app/src/main/java/com/boss/testoverwatchherocompanion (Java files)
+
 and
+
 app/src/main/res/layout (XML files)
 
 # Note
