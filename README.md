@@ -10,6 +10,7 @@ The picture below is using an Android emulator in Android Studio.
 # App Logic
 
 Most of the app logic can be found if you navigate to:
+
 app/src/main/java/com/boss/testoverwatchherocompanion (Java files)
 
 and
