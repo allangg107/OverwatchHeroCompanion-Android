@@ -1,4 +1,4 @@
-# Overwatch Hero Companion
+# Overwatch Hero Companion - Android
 Individual project for giving tips and tricks the the videogame Overwatch.
 
 Uploaded to the Google Play Store and compatitable with Android.
